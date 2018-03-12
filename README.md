@@ -1,6 +1,6 @@
 # What is C0F3
 
-So you're wondering what **C0F3** is? Well **C0F3** is a automatic jailbreak for iOS 10.0 - 10.3.3 (64-bit, 32-bit coming soon) and iOS 11.0 - 11.1.2 (64 bit).
+So you're wondering what **C0F3** is? Well **C0F3** is a automatic jailbreak for iOS 10.0 - 10.3.3 (64-bit, 32-bit coming soon) and iOS 11.0 - 11.1.2 (64 bit). 
 
 
 # Exploits
@@ -24,13 +24,13 @@ So you're wondering what **C0F3** is? Well **C0F3** is a automatic jailbreak for
 
 People who helped make **C0F3** possible
 
-| Exploiters               |    Developers   |
-|--------------------------|:---------------:|
-| Ian Beer                 |  Joseph Shenton |
-| Siguza                   | Sem Voigtlander |
-| NinjaPrawn               | Vincent Desmurs |
-| Xerub                    | Jake James      |
-| Ben Sparkes (PsychoTea)  | Omar Tawfik (@BestTube_YT)   |
-| Viktor Oreshkin (Stek29) | Mason Shmadul   |
-| Abraham Masri            | CoolStarORG     |
-| Sticktron                |                 |
+| Exploiters               |    Developers   |   Designers   |
+|--------------------------|-----------------|---------------|
+| Ian Beer                 |  Joseph Shenton |  TAD3V |
+| Siguza                   | Sem Voigtlander ||
+| NinjaPrawn               | Vincent Desmurs ||
+| Xerub                    | Jake James      ||
+| Ben Sparkes (PsychoTea)  | Omar Tawfik (@BestTube_YT)   ||
+| Viktor Oreshkin (Stek29) | Mason Shmadul   ||
+| Abraham Masri            | CoolStarORG     ||
+| Sticktron                | TAD3V           ||
